@@ -1,1 +1,1 @@
-# SidethornwUpdt
+Sidethorn WhimsyGoth PWA - open index.html in browser or host via GitHub Pages. Uses localStorage.
